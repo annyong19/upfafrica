@@ -194,8 +194,9 @@
              </div>
             <div class="col-md-4 layout_padding_2">
                 <div class="full">
-                    <div data-tockify-component="mini" data-tockify-calendar="upfevents"></div><script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
-                    </div>
+                    <div data-tockify-component="mini" data-tockify-calendar="upfafrica"></div>
+			<script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
+		    </div>
             </div>
             <div class="col-md-5">
                 <div class="full">
